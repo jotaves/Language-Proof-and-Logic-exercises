@@ -1,0 +1,63 @@
+Grade report for Marcel Oliveira (marcel@dimap.ufrn.br)
+                 Note: More than 21 months since registration.
+Submission ID: 18.226.18.16.57.L21-8762399
+Submission received at: Tue Aug 14 18:16:57 GMT 2018
+Submission graded at: Tue Aug 14 18:17:08 GMT 2018
+
+#### Grade report also available to Marcel Oliveira (marcel@dimap.ufrn.br)
+
+The student included this message:
+##################################
+JOÂO VICTOR
+##################################
+
+The following files were submitted:
+        Proof 2.17.prf
+        Proof 2.18.prf
+        Proof 2.19.prf
+        Proof 2.20.prf
+        Proof 2.27.prf
+        World 2.25.wld
+
+EXERCISE 2.17
+
+  Proof 2.17  (Student file: "Proof 2.17.prf")
+     Your proof is correct.  Da bomb!
+
+EXERCISE 2.18
+
+  Proof 2.18  (Student file: "Proof 2.18.prf")
+     Your proof is correct.  Good show!
+
+EXERCISE 2.19
+
+  Proof 2.19  (Student file: "Proof 2.19.prf")
+     Your proof is correct.  Excellent!
+
+EXERCISE 2.20
+
+  Proof 2.20  (Student file: "Proof 2.20.prf")
+     Your proof is correct.  In the box!
+     Your proof contains 3 non-premise steps. (this is informational only)
+
+EXERCISE 2.25
+
+  World 2.25  (Student file: "World 2.25.wld")
+     Your world is a counterexample to the given argument.  Party on!
+
+  Proof 2.25  (Student file: not submitted)
+
+EXERCISE 2.27
+
+  World 2.27  (Student file: not submitted)
+
+  Proof 2.27  (Student file: "Proof 2.27.prf")
+     Your proof is correct.  Gnarly!
+
+
+ 
+
+     Your proof contains 3 non-premise steps. (this is informational only)
+
+---------------------------------
+The Openproof(TM) project is funded by Stanford University.

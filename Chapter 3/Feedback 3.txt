@@ -1,0 +1,101 @@
+Grade report for Marcel Oliveira (marcel@dimap.ufrn.br)
+                 Note: More than 21 months since registration.
+Submission ID: 18.228.19.43.43.L21-8762399
+Submission received at: Thu Aug 16 19:43:43 GMT 2018
+Submission graded at: Thu Aug 16 19:43:55 GMT 2018
+
+#### Grade report also available to Marcel Oliveira (marcel@dimap.ufrn.br)
+
+The student included this message:
+##################################
+JOÃO VICTOR
+##################################
+
+The following files were submitted:
+        Sentences 3.3.sen
+        Sentences 3.10.sen
+        Sentences 3.18.sen
+        Sentences 3.21.sen
+        World 3.3.wld
+        World 3.7.wld
+        World 3.10.wld
+        World 3.15.wld
+        World 3.16.1.wld
+        World 3.16.2.wld
+
+EXERCISE 3.3
+
+  Sentences 3.3  (Student file: "Sentences 3.3.sen")
+     We found problems in your sentences:
+     *** Your sentence file contained only 9 sentences.  We expected 10 
+         sentences.
+     *** Your fourth sentence, "c # b", is not the same as the sentence in the 
+         book.
+     *** Your fifth sentence, "~(d # e)", is not the same as the sentence in 
+         the book.
+     *** Your sixth sentence, "~SameShape(f, c)", is not the same as the 
+         sentence in the book.
+     *** Your seventh sentence, "~~SameShape(d, c)", is not the same as the 
+         sentence in the book.
+     *** Your eighth sentence, "~Cube(e)", is not the same as the sentence in 
+         the book.
+     *** Your ninth sentence, "~Tet(c)", is not the same as the sentence in the 
+         book.
+
+  World 3.3  (Student file: "World 3.3.wld")
+     Your world is correct.  Too cool!
+
+EXERCISE 3.7
+
+  World 3.7  (Student file: "World 3.7.wld")
+     Your world is correct.  Amazing!
+
+EXERCISE 3.10
+
+  Sentences 3.10  (Student file: "Sentences 3.10.sen")
+     Your sentences are all correct.  Jings!
+
+  World 3.10  (Student file: "World 3.10.wld")
+     Your world is correct.  Party on!
+
+EXERCISE 3.15
+
+  World 3.15  (Student file: "World 3.15.wld")
+     Your world is a counterexample to the given argument.  Woohoo!
+
+EXERCISE 3.16
+
+  World 3.16.1  (Student file: "World 3.16.1.wld")
+     Your world is correct.  Zany!
+
+  World 3.16.2  (Student file: "World 3.16.2.wld")
+     Your world is correct.  Bully!
+
+EXERCISE 3.18
+
+  Sentences 3.18  (Student file: "Sentences 3.18.sen")
+     We found problems in your sentences:
+     *** Your sixth sentence, "SameSize(a, d) & SameShape(a, d)", is not 
+         equivalent to any of the expected answers.  This one is a bit tricky.  
+         You need to find a sentence that doesn't use identity, but which can't 
+         be true of two different blocks in Tarski's World.
+
+EXERCISE 3.21
+
+  Sentences 3.21  (Student file: "Sentences 3.21.sen")
+     We found problems in your sentences:
+     *** Your first sentence, "Small(a) v (Large(b) & Large(c))", is not 
+         equivalent to any of the expected translations.
+     *** Your fifth sentence, "~(RightOf(e, c) & LeftOf(e, b)) v 
+         ~(RightOf(a, c) & LeftOf(a, b))", is not equivalent to any of the
+
+
+ 
+ 
+         expected translations.  This English sentence can be confusing.  Try 
+         translating "e is to the right of c and to the left of b" and "a is to 
+         the right of c and to the left of b".  Then say that neither of these 
+         is the case.
+
+---------------------------------
+The Openproof(TM) project is funded by Stanford University.

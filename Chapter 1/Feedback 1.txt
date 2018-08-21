@@ -1,0 +1,69 @@
+Grade report for Marcel Oliveira (marcel@dimap.ufrn.br)
+                 Note: More than 21 months since registration.
+Submission ID: 18.226.17.36.58.L21-8762399
+Submission received at: Tue Aug 14 17:36:58 GMT 2018
+Submission graded at: Tue Aug 14 17:37:03 GMT 2018
+
+#### Grade report also available to Marcel Oliveira (marcel@dimap.ufrn.br)
+
+The student included this message:
+##################################
+JOÃO VICTOR
+##################################
+
+The following files were submitted:
+        Sentences 1.2.sen
+        Sentences 1.4.sen
+        Sentences 1.9.sen
+        Sentences 1.19.sen
+        World 1.3.wld
+        World 1.4.wld
+        World 1.5.wld
+        World 1.14.wld
+
+EXERCISE 1.2
+
+  Sentences 1.2  (Student file: "Sentences 1.2.sen")
+     Your sentences are all correct.  Jings!
+
+EXERCISE 1.3
+
+  World 1.3  (Student file: "World 1.3.wld")
+     Your world is correct.  Raise the roof!
+
+EXERCISE 1.4
+
+  Sentences 1.4  (Student file: "Sentences 1.4.sen")
+     Your translations are all correct.  Blimey!
+
+  World 1.4  (Student file: "World 1.4.wld")
+     Your sentences are all true in this world.  Eureka!
+
+EXERCISE 1.5
+
+  World 1.5  (Student file: "World 1.5.wld")
+     Lestrade's Sentences are true in your world.  Egads!
+
+EXERCISE 1.9
+
+  Sentences 1.9  (Student file: "Sentences 1.9.sen")
+     Your translations are all correct.  Phat!
+
+EXERCISE 1.14
+
+  World 1.14  (Student file: "World 1.14.wld")
+     We found problems in your world:
+     *** The seventh sentence in the list is true but should have been false in 
+         your world.
+
+EXERCISE 1.19
+
+  Sentences 1.19  (Student file: "Sentences 1.19.sen")
+     Your answers are all correct.  Spiffy!
+
+
+ 
+
+
+---------------------------------
+The Openproof(TM) project is funded by Stanford University.
