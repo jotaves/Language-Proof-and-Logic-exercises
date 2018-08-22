@@ -1,4 +1,4 @@
-Assume that either c is larger than b or else they are identical.
-Since b is a tetrahedron and c is a cube, they can not be identical.
-The only way it can be true is if c is larger than b.
-Since c is larger than b, b is smaller than c.
+Assume that b is a tetrahedron, c is a cube and either c is larger than b or else they are identical.
+Since b is a tetrahedron and c is a cube, they can not be identical, 
+so the only way "either c is larger than b or else they are identical" can be true is if c is larger than b, 
+that is, b is smaller than c.
