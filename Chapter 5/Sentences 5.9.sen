@@ -1,0 +1,1 @@
+7.2.3.24206wnds:Windows 86.2SntFC1534906153252D1534906703120S86585LeftOf(a, b) | RightOf(a, b)BackOf(a, b) | ~LeftOf(a, b)FrontOf(b, a) | ~RightOf(a, b)SameCol(c, a) & SameRow(c, b)LeftOf(b, c)s=31129;

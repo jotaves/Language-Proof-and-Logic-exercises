@@ -1,0 +1,67 @@
+Grade report for Marcel Oliveira (marcel@dimap.ufrn.br)
+                 Note: More than 21 months since registration.
+Submission ID: 18.234.20.18.30.L21-8762399
+Submission received at: Wed Aug 22 20:18:30 GMT 2018
+Submission graded at: Wed Aug 22 20:18:34 GMT 2018
+
+#### Grade report also available to Marcel Oliveira (marcel@dimap.ufrn.br)
+
+The student included this message:
+##################################
+JOAO VICTOR
+##################################
+
+The following files were submitted:
+        Sentences 4.32.sen
+        Sentences 4.39.sen
+        Table 4.6.tt
+        Table 4.7.tt
+        Table 4.14.tt
+        Table 4.16.tt
+        Table 4.18.tt
+        Table 4.22.tt
+
+EXERCISE 4.6
+
+  Table 4.6  (Student file: "Table 4.6.tt")
+     Your table is correct.  Righteous!
+
+EXERCISE 4.7
+
+  Table 4.7  (Student file: "Table 4.7.tt")
+     Your table is correct.  Bless my collar button!
+
+EXERCISE 4.14
+
+  Table 4.14  (Student file: "Table 4.14.tt")
+     Your table is correct.  Smashing!
+
+EXERCISE 4.16
+
+  Table 4.16  (Student file: "Table 4.16.tt")
+     Your table is correct.  Rock on!
+
+EXERCISE 4.18
+
+  Table 4.18  (Student file: "Table 4.18.tt")
+     Your table is correct.  Impressive!
+
+EXERCISE 4.22
+
+  Table 4.22  (Student file: "Table 4.22.tt")
+     Your table is correct.  Bully!
+
+EXERCISE 4.32
+
+  Sentences 4.32  (Student file: "Sentences 4.32.sen")
+     Your sentences are all correct.  Groovy!
+
+EXERCISE 4.39
+
+  Sentences 4.39  (Student file: "Sentences 4.39.sen")
+     Your sentences are all correct.  Yes!
+ 
+
+
+---------------------------------
+The Openproof(TM) project is funded by Stanford University.
