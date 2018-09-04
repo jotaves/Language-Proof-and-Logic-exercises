@@ -1,0 +1,148 @@
+Grade report for Marcel Oliveira (marcel@dimap.ufrn.br)
+                 Note: More than 21 months since registration.
+Submission ID: 18.242.20.37.36.L21-8762399
+Submission received at: Thu Aug 30 20:37:36 GMT 2018
+Submission graded at: Thu Aug 30 20:37:41 GMT 2018
+
+#### Grade report also available to Marcel Oliveira (marcel@dimap.ufrn.br)
+
+The student included this message:
+##################################
+JOAO VICTOR
+##################################
+
+The following files were submitted:
+        Proof 6.2.prf
+        Proof 6.3.prf
+        Proof 6.5.prf
+        Proof 6.8.prf
+        Proof 6.12.prf
+        Proof 6.14.prf
+        Proof 6.19.prf
+        Proof 6.24.prf
+        Proof 6.27.prf
+        Proof 6.29.prf
+        Proof 6.32.prf
+        Proof 6.33.prf
+        World 6.37.wld
+        World 6.39.wld
+
+EXERCISE 6.2
+
+  Proof 6.2  (Student file: "Proof 6.2.prf")
+     Your proof is correct.  Bravo!
+     Your proof contains 11 non-premise steps. (this is informational only)
+
+EXERCISE 6.3
+
+  Proof 6.3  (Student file: "Proof 6.3.prf")
+     Your proof is correct.  Zowie!
+
+EXERCISE 6.5
+
+  Proof 6.5  (Student file: "Proof 6.5.prf")
+     Your proof is correct.  Outstanding!
+
+EXERCISE 6.8
+
+  Proof 6.8  (Student file: "Proof 6.8.prf")
+     Your proof is correct.  For sure!
+
+EXERCISE 6.12
+
+  World 6.12  (Student file: not submitted)
+     [No counterexample was expected, since the argument is valid.  This 
+      message was not sent to the student.]
+
+  Proof 6.12  (Student file: "Proof 6.12.prf")
+     Your proof is correct.  Holy smokes!
+     Your proof contains 9 non-premise steps. (this is informational only)
+
+EXERCISE 6.14
+
+  World 6.14  (Student file: not submitted)
+     [No counterexample was expected, since the argument is valid.  This 
+      message was not sent to the student.]
+
+  Proof 6.14  (Student file: "Proof 6.14.prf")
+     Your proof is correct.  Yeehaw!
+     Your proof contains 12 non-premise steps. (this is informational only)
+
+EXERCISE 6.19
+
+  Proof 6.19  (Student file: "Proof 6.19.prf")
+     Your proof is correct.  Impressive!
+
+EXERCISE 6.24
+
+  Solution 6.24  (Student file: not submitted)
+     ??? We did not receive your written work.  We hope you turned it in to 
+         your instructor.
+     ??? We did not receive your written work.  We hope you turned it in to 
+         your instructor.
+
+  Proof 6.24  (Student file: "Proof 6.24.prf")
+     Your proof is correct.  Bravo!
+     Your proof contains 9 non-premise steps. (this is informational only)
+
+EXERCISE 6.27
+
+  Solution 6.27  (Student file: not submitted)
+     ??? We did not receive your written work.  We hope you turned it in to 
+         your instructor.
+     ??? We did not receive your written work.  We hope you turned it in to 
+         your instructor.
+
+  Proof 6.27  (Student file: "Proof 6.27.prf")
+     Your proof is correct.  Wonderful!
+     Your proof contains 14 non-premise steps. (this is informational only)
+
+EXERCISE 6.29
+
+  World 6.29  (Student file: not submitted)
+     [No counterexample was expected, since the argument is valid.  This 
+      message was not sent to the student.]
+
+  Proof 6.29  (Student file: "Proof 6.29.prf")
+     Your proof is correct.  Raise the roof!
+     Your proof contains 16 non-premise steps. (this is informational only)
+
+EXERCISE 6.32
+
+  World 6.32  (Student file: not submitted)
+     [No counterexample was expected, since the argument is valid.  This 
+      message was not sent to the student.]
+
+  Proof 6.32  (Student file: "Proof 6.32.prf")
+     Your proof is correct.  Raise the roof!
+     Your proof contains 13 non-premise steps. (this is informational only)
+
+EXERCISE 6.33
+
+  Proof 6.33  (Student file: "Proof 6.33.prf")
+     Your proof is correct.  Way to go!
+     Your proof contains 9 non-premise steps. (this is informational only)
+
+EXERCISE 6.37
+
+  World 6.37  (Student file: "World 6.37.wld")
+     Your world is a counterexample to the given argument.  Jolly good!
+
+  Proof 6.37  (Student file: not submitted)
+     [No proof was expected.  This message was not sent to the student.]
+
+EXERCISE 6.39
+
+  World 6.39  (Student file: "World 6.39.wld")
+     Your world is a counterexample to the given argument.  All right!
+
+
+
+
+  Proof 6.39  (Student file: not submitted)
+     [No proof was expected.  This message was not sent to the student.]
+
+
+ 
+---------------------------------
+The Openproof(TM) project is funded by Stanford University.
