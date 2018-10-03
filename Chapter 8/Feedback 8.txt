@@ -1,16 +1,3 @@
-Grade report for Marcel Oliveira (marcel@dimap.ufrn.br)
-                 Note: More than 21 months since registration.
-Submission ID: 18.249.20.30.11.L21-8762399
-Submission received at: Thu Sep 06 20:30:11 GMT 2018
-Submission graded at: Thu Sep 6 20:30:24 GMT 2018
-
-#### Grade report also available to Marcel Oliveira (marcel@dimap.ufrn.br)
-
-The student included this message:
-##################################
-JOAO VICTOR
-##################################
-
 The following files were submitted:
         Proof 8.25.prf
         Proof 8.34.prf

@@ -1,16 +1,3 @@
-Grade report for Marcel Oliveira (marcel@dimap.ufrn.br)
-                 Note: More than 21 months since registration.
-Submission ID: 18.226.17.36.58.L21-8762399
-Submission received at: Tue Aug 14 17:36:58 GMT 2018
-Submission graded at: Tue Aug 14 17:37:03 GMT 2018
-
-#### Grade report also available to Marcel Oliveira (marcel@dimap.ufrn.br)
-
-The student included this message:
-##################################
-JOÃO VICTOR
-##################################
-
 The following files were submitted:
         Sentences 1.2.sen
         Sentences 1.4.sen
@@ -55,6 +42,8 @@ EXERCISE 1.14
      We found problems in your world:
      *** The seventh sentence in the list is true but should have been false in 
          your world.
+
+  PROBLEM SOLVED.
 
 EXERCISE 1.19
 

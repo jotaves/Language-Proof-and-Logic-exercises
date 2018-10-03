@@ -1,16 +1,3 @@
-Grade report for Marcel Oliveira (marcel@dimap.ufrn.br)
-                 Note: More than 21 months since registration.
-Submission ID: 18.228.19.43.43.L21-8762399
-Submission received at: Thu Aug 16 19:43:43 GMT 2018
-Submission graded at: Thu Aug 16 19:43:55 GMT 2018
-
-#### Grade report also available to Marcel Oliveira (marcel@dimap.ufrn.br)
-
-The student included this message:
-##################################
-JOÃO VICTOR
-##################################
-
 The following files were submitted:
         Sentences 3.3.sen
         Sentences 3.10.sen
@@ -41,6 +28,8 @@ EXERCISE 3.3
          the book.
      *** Your ninth sentence, "~Tet(c)", is not the same as the sentence in the 
          book.
+
+  PROBLEMS SOLVED.
 
   World 3.3  (Student file: "World 3.3.wld")
      Your world is correct.  Too cool!
@@ -80,6 +69,8 @@ EXERCISE 3.18
          You need to find a sentence that doesn't use identity, but which can't 
          be true of two different blocks in Tarski's World.
 
+  PROBLEM SOLVED.
+
 EXERCISE 3.21
 
   Sentences 3.21  (Student file: "Sentences 3.21.sen")
@@ -96,6 +87,8 @@ EXERCISE 3.21
          translating "e is to the right of c and to the left of b" and "a is to 
          the right of c and to the left of b".  Then say that neither of these 
          is the case.
+
+  PROBLEMS SOLVED.
 
 ---------------------------------
 The Openproof(TM) project is funded by Stanford University.
