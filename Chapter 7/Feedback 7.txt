@@ -1,0 +1,50 @@
+Grade report for Marcel Oliveira (marcel@dimap.ufrn.br)
+                 Note: More than 21 months since registration.
+Submission ID: 18.249.18.38.43.L21-8762399
+Submission received at: Thu Sep 06 18:38:43 GMT 2018
+Submission graded at: Thu Sep 6 18:38:49 GMT 2018
+
+#### Grade report also available to Marcel Oliveira (marcel@dimap.ufrn.br)
+
+The student included this message:
+##################################
+JOAO VICTOR
+##################################
+
+The following files were submitted:
+        Sentences 7.12.sen
+        Sentences 7.25.sen
+        Sentences 7.27.sen
+        Table 7.1.tt
+        Table 7.5.tt
+        Table 7.8.tt
+
+EXERCISE 7.1
+
+  Table 7.1  (Student file: "Table 7.1.tt")
+     Your table is correct.  Hot diggity dog!
+
+EXERCISE 7.5
+
+  Table 7.5  (Student file: "Table 7.5.tt")
+     Your table is correct.  All that and a bag of chips!
+
+EXERCISE 7.8
+
+  Table 7.8  (Student file: "Table 7.8.tt")
+     Your table is correct.  Incredible!
+
+EXERCISE 7.12
+
+  Sentences 7.12  (Student file: "Sentences 7.12.sen")
+     Your sentences are all correct.  Sakes alive!
+
+EXERCISE 7.25
+
+  Sentences 7.25  (Student file: "Sentences 7.25.sen")
+     Your sentences are all correct.  All right!
+
+EXERCISE 7.27
+
+  Sentences 7.27  (Student file: "Sentences 7.27.sen")
+     Your sentences are all correct.  Cool!

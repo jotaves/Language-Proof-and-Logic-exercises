@@ -1,0 +1,2 @@
+7.2.3.24206wnds:Windows 86.2SntFC1537840951915D1537843194437S85155@x@y ((Dodec(x) & Cube(y)) $ (Larger(x, y) | SameSize(x,y)))@x/y ((Cube(x) & Dodec(y) & RightOf(x, y) & ~BackOf(x, y)) $ (Larger(x, y) | SameSize(x,y)))@x ((Cube(x) & ~/y LeftOf(y,x)) $ /z/w (Cube(z) & Cube(w) & ~Between(x,z,w)))Large(b) & Cube(b) & Large(c) & Cube(c) & @x((Large(x) & Cube(x)) $ (x = b | x = c))
+@x((Large(x) & Cube(x)) $ (x = b | x = c))s=69226;

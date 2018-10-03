@@ -1,0 +1,9 @@
+Suppose that 
+(i) for all y, y is a cube or a dodec, 
+(ii) for all y, if y is a cube, then it's large and 
+(iii) exists y that is not large. 
+
+Since exists y that is not large and all cubes are large, y can not be a cube. 
+Because for all y, y is a cube or a dodec, it can only be a dodec.
+
+So it's possible to conclude that exists a dodec.

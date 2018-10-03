@@ -1,0 +1,10 @@
+Suppose that 
+(i) b has the same shape as c.
+
+(a) Suppose b is a cube. From Axiom 8 and (i), c is a cube. If c is a cube and b is a cube, from Axiom 5, c has the same shape as b.
+
+(b) Suppose b is a dodec. From Axiom 9 and (i), c is a dodec. If c is a dodec and b is a dodec, from Axiom 6, c has the same shape as b.
+
+(c) Suppose b is a tet. From Axiom 10 and (i), c is a tet. If c is a tet and b is a tet, from Axiom 7, c has the same shape as b.
+
+From Axiom 4, (a), (b) and (c), it's possible to conclude that c has the same shape as b.

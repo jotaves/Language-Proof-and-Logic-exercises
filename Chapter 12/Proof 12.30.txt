@@ -1,0 +1,6 @@
+Suppose that
+(i) there exists x that is not a cube and is not a dodec and
+(ii) there exists x with the same shape as y, for all y.
+
+From (i) and Axiom 4, it's possible to conclude that for all x, x is a tet.
+If x is a tet and (ii), using Axiom 10, then that y is a tet.

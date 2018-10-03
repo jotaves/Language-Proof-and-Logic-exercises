@@ -1,0 +1,8 @@
+Suppose that
+(i) for all x, x is a large cube or x is a small tet and
+(ii) for all x, if x is a tet, then it is in the back of c.
+
+Suppose d is small. Since there are only large cubes or small tet (i), d is a tet.
+If d is a tet, then it's in the back of c (ii).
+Since if d is small, it is in the back of c,
+then for all x, if x is small, then it is in the back of c.

@@ -1,0 +1,97 @@
+Grade report for Marcel Oliveira (marcel@dimap.ufrn.br)
+                 Note: More than 22 months since registration.
+Submission ID: 18.267.19.39.10.L21-8762399
+Submission received at: Mon Sep 24 19:39:10 GMT 2018
+Submission graded at: Mon Sep 24 19:39:15 GMT 2018
+
+#### Grade report also available to Marcel Oliveira (marcel@dimap.ufrn.br)
+
+The student included this message:
+##################################
+JOAO VICTOR
+##################################
+
+The following files were submitted:
+        Sentences 9.1.sen
+        Sentences 9.3.sen
+        Sentences 9.5.sen
+        Sentences 9.6.sen
+        Sentences 9.12.sen
+        Sentences 9.16.sen
+        Sentences 9.17.sen
+        Sentences 9.18.sen
+        Sentences 9.25.sen
+        World 9.9.wld
+        World 9.14.wld
+
+EXERCISE 9.1
+
+  Sentences 9.1  (Student file: "Sentences 9.1.sen")
+     Your sentences are all correct.  Eureka!
+
+EXERCISE 9.3
+
+  Sentences 9.3  (Student file: "Sentences 9.3.sen")
+     We found problems in your sentences:
+     *** Your second sentence, "~SameCol(c, b)", is not equivalent to any of 
+         the expected answers.  There is a more natural way to make the 
+         sentence true in Leibniz's World.
+
+EXERCISE 9.5
+
+  Sentences 9.5  (Student file: "Sentences 9.5.sen")
+     Your sentences are all correct.  Masterful!
+
+EXERCISE 9.6
+
+  Sentences 9.6  (Student file: "Sentences 9.6.sen")
+     Your sentences are all correct.  Yeah!
+
+EXERCISE 9.9
+
+  World 9.9  (Student file: "World 9.9.wld")
+     Aristotles' Sentences are true in your world.  Huzzah!
+
+EXERCISE 9.12
+
+  Sentences 9.12  (Student file: "Sentences 9.12.sen")
+     Your sentences are all correct.  Incredible!
+
+EXERCISE 9.14
+
+  World 9.14  (Student file: "World 9.14.wld")
+     You found the right assignment of names.  Zowie!
+
+EXERCISE 9.16
+
+  Sentences 9.16  (Student file: "Sentences 9.16.sen")
+     Your sentences are all correct.  Keen!
+
+EXERCISE 9.17
+
+  Sentences 9.17  (Student file: "Sentences 9.17.sen")
+     Your sentences are all correct.  Terrific!
+
+EXERCISE 9.18
+
+  Sentences 9.18  (Student file: "Sentences 9.18.sen")
+     Your sentences are all correct.  Da bomb!
+
+EXERCISE 9.25
+
+  Sentences 9.25  (Student file: "Sentences 9.25.sen")
+     We found problems in your sentences:
+     -NOTE: In these translations, it's essential that you use the right 
+      predicates, function symbols, and constants.  (Remember "Square" and "2" 
+      are not part of the language.  "<" is part of the language, but ">" is 
+      not.)  To enter the multiplication symbol, you must type the asterisk 
+      (*), not "x", which is a variable.
+     *** Your first sentence, "Az (~Prime(zxz))", doesn't match the expected 
+         translation.
+     *** Your second sentence, "Ez (~Even(zxz))", doesn't match the expected 
+         translation.
+     *** Your third sentence, "Az (Prime(z) -> Prime(zxz))", doesn't match the 
+         expected translation.
+     *** Your fourth sentence, "Az ((Prime(z) & z#2) -> ~Even(zxz))", doesn't 
+         match the expected translation.
+     *** Your fifth sentence, "Az ((Smaller(1, zxz)) -> Smaller(z, zxz))",

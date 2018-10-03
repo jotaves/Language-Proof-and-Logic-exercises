@@ -1,0 +1,13 @@
+Suppose that
+(i) for all x, y, if x is to the left of y, then x is larger than y.
+(ii) for all x, if x is a cube, then it is small.
+(iii) for all x, if x is a tet, then it is large.
+(iv) for all x, y, if x is small and y is small, then x is not larger than y.
+
+Suppose that exists d and e that d is a cube, e is a cube and d is to the right of e.
+If d is a cube, then it is small (ii).
+If e is a cube, then it is small (ii).
+If d is to the right of e, then e is to the left of d.
+If e is to the left of d, then e is larger then d (i).
+But e can not be larger then d, since both are small.
+So does not exist d and e that d is a cube, e is a cube and d is to the right of e.

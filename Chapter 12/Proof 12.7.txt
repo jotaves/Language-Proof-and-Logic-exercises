@@ -1,0 +1,11 @@
+Suppose that
+(i) for all x, x is a cube or x is a dodec,
+(ii) for all x, if x is a cube, then it's large and to then left of c and 
+(iii) for all x, if is not small, then it's a tet.
+
+Suppose d is a cube, then it's large and to the left of c (ii).
+Since d is large, then it's a tet (iii). That is not possible, since d is a cube.
+
+Suppose d is a dodec. If it's a dodec then exists a dodec.
+
+So it's possible to conclude that d is a dodec.

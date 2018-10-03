@@ -1,0 +1,86 @@
+Grade report for Marcel Oliveira (marcel@dimap.ufrn.br)
+                 Note: More than 22 months since registration.
+Submission ID: 18.269.21.05.11.L21-8762399
+Submission received at: Wed Sep 26 21:05:11 GMT 2018
+Submission graded at: Wed Sep 26 21:05:51 GMT 2018
+
+#### Grade report also available to Marcel Oliveira (marcel@dimap.ufrn.br)
+
+The student included this message:
+##################################
+JOAO VICTOR
+##################################
+
+The following files were submitted:
+        Sentences 11.4.sen
+        Sentences 11.9.sen
+        Sentences 11.17.sen
+        Sentences 11.19.sen
+        World 11.2.wld
+        World 11.5.wld
+        World 11.11.wld
+        World 11.13.wld
+        World 11.15.1.wld
+        World 11.15.2.wld
+
+EXERCISE 11.2
+
+  World 11.2  (Student file: "World 11.2.wld")
+     Your world is correct.  Wicked!
+
+EXERCISE 11.4
+
+  Sentences 11.4  (Student file: "Sentences 11.4.sen")
+     Your sentences are all correct.  Incredible!
+
+EXERCISE 11.5
+
+  World 11.5  (Student file: "World 11.5.wld")
+     Your world is correct.  Tight!
+
+EXERCISE 11.9
+
+  Sentences 11.9  (Student file: "Sentences 11.9.sen")
+     Your file was correct.  Deluxe!
+
+EXERCISE 11.11
+
+  World 11.11  (Student file: "World 11.11.wld")
+     Your world is correct.  Amazing!
+
+EXERCISE 11.13
+
+  World 11.13  (Student file: "World 11.13.wld")
+     Your world is correct.  As I live and breathe!
+
+EXERCISE 11.15
+
+  World 11.15.1  (Student file: "World 11.15.1.wld")
+     Your world is correct.  Sweet!
+
+  World 11.15.2  (Student file: "World 11.15.2.wld")
+     Your world is correct.  Raise the roof!
+
+EXERCISE 11.17
+
+  Sentences 11.17  (Student file: "Sentences 11.17.sen")
+     Your sentences are all correct.  Wir gratulieren!
+
+EXERCISE 11.19
+
+  Sentences 11.19  (Student file: "Sentences 11.19.sen")
+     We found problems in your sentences:
+     ??? We could not determine whether your second sentence, "AxEy ((Cube(x) & 
+         Dodec(y) & RightOf(x, y) & ~BackOf(x, y)) -> (Larger(x, y) v 
+         SameSize(x,y)))", was correct. Your instructor will have to verify 
+         this answer.
+     ??? We could not determine whether your third sentence, "Ax ((Cube(x) & 
+         ~Ey LeftOf(y,x)) -> EzEw (Cube(z) & Cube(w) & ~Between(x,z,w)))", was
+ 
+
+         correct: The Grade Grinder timed out while checking your answer. Your 
+         instructor will have to verify this answer.
+
+ 
+---------------------------------
+The Openproof(TM) project is funded by Stanford University.

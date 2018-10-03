@@ -1,0 +1,8 @@
+Suppose that
+(i) for all x, x is a cube or for all x, x is a tet or for all x, x is a dodec.
+
+If for all x, x is a cube, then, by the Axiom 5, it's possible to conclude that for all x, y, x has the same shape as y.
+
+If for all x, x is a tet or if for all x, x is a dodec, the same process can be applied using the Axiom 6 and 7.
+
+So it's possible to conclude that for all x, y, x has the same shape as y.

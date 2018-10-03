@@ -1,0 +1,88 @@
+Grade report for Marcel Oliveira (marcel@dimap.ufrn.br)
+                 Note: More than 21 months since registration.
+Submission ID: 18.249.20.30.11.L21-8762399
+Submission received at: Thu Sep 06 20:30:11 GMT 2018
+Submission graded at: Thu Sep 6 20:30:24 GMT 2018
+
+#### Grade report also available to Marcel Oliveira (marcel@dimap.ufrn.br)
+
+The student included this message:
+##################################
+JOAO VICTOR
+##################################
+
+The following files were submitted:
+        Proof 8.25.prf
+        Proof 8.34.prf
+        Proof 8.36.prf
+        Proof 8.48.prf
+        Proof 8.52.prf
+        Proof 8.53.prf
+        World 8.44.wld
+        World 8.47.wld
+        World 8.51.wld
+
+EXERCISE 8.25
+
+  Proof 8.25  (Student file: "Proof 8.25.prf")
+     Your proof is correct.  Bravo!
+     Your proof contains 7 non-premise steps. (this is informational only)
+
+  Sentences 8.25  (Student file: not submitted)
+
+  World 8.25  (Student file: not submitted)
+
+EXERCISE 8.34
+
+  Proof 8.34  (Student file: "Proof 8.34.prf")
+     Your proof is correct.  Holy smokes!
+
+EXERCISE 8.36
+
+  Proof 8.36  (Student file: "Proof 8.36.prf")
+     Your proof is correct.  Holy mackerel!
+
+EXERCISE 8.44
+
+  World 8.44  (Student file: "World 8.44.wld")
+     Your world is a counterexample to the given argument.  Wicked!
+
+  Proof 8.44  (Student file: not submitted)
+
+EXERCISE 8.47
+
+  World 8.47  (Student file: "World 8.47.wld")
+     Your world is a counterexample to the given argument.  Land sakes alive!
+
+  Proof 8.47  (Student file: not submitted)
+
+EXERCISE 8.48
+
+  World 8.48  (Student file: not submitted)
+
+  Proof 8.48  (Student file: "Proof 8.48.prf")
+     Your proof is correct.  Rock on!
+     Your proof contains 11 non-premise steps. (this is informational only)
+
+EXERCISE 8.51
+
+  World 8.51  (Student file: "World 8.51.wld")
+     Your world is a counterexample to the given argument.  Bravo!
+
+  Proof 8.51  (Student file: not submitted)
+
+EXERCISE 8.52
+
+  World 8.52  (Student file: not submitted)
+
+  Proof 8.52  (Student file: "Proof 8.52.prf")
+     Your proof is correct.  Da bomb!
+     Your proof contains 11 non-premise steps. (this is informational only)
+
+EXERCISE 8.53
+
+  World 8.53  (Student file: not submitted)
+
+  Proof 8.53  (Student file: "Proof 8.53.prf")
+     Your proof is correct.  Eureka!
+     Your proof contains 13 non-premise steps. (this is informational only)

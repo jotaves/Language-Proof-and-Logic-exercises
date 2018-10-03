@@ -1,0 +1,61 @@
+Grade report for Marcel Oliveira (marcel@dimap.ufrn.br)
+                 Note: More than 22 months since registration.
+Submission ID: 18.269.20.36.10.L21-8762399
+Submission received at: Wed Sep 26 20:36:10 GMT 2018
+Submission graded at: Wed Sep 26 20:36:44 GMT 2018
+
+#### Grade report also available to Marcel Oliveira (marcel@dimap.ufrn.br)
+
+The student included this message:
+##################################
+JOAO VICTOR
+##################################
+
+The following files were submitted:
+        Proof 10.29.prf
+        World 10.23.sen (interpreted as Sentences 10.23)
+        World 10.22.wld
+        World 10.25.wld
+        World 10.27.wld
+
+EXERCISE 10.22
+
+  World 10.22  (Student file: "World 10.22.wld")
+     Your world is correct.  Egads!
+
+EXERCISE 10.23
+
+  Sentences 10.23  (Student file: "World 10.23.sen")
+     Your sentences are all correct.  Way cool!
+
+EXERCISE 10.25
+
+  World 10.25  (Student file: "World 10.25.wld")
+     Your world falsifies the given sentence.  Hot diggity dog!
+
+  Proof 10.25  (Student file: not submitted)
+     [No proof was expected.  This message was not sent to the student.]
+
+EXERCISE 10.27
+
+  World 10.27  (Student file: "World 10.27.wld")
+     Your world falsifies the given sentence.  Tight!
+
+  Proof 10.27  (Student file: not submitted)
+     [No proof was expected.  This message was not sent to the student.]
+
+EXERCISE 10.29
+
+  World 10.29  (Student file: not submitted)
+     [No world was expected, since the sentence is logically true.  This 
+      message was not sent to the student.]
+
+  Proof 10.29  (Student file: "Proof 10.29.prf")
+     Your proof is correct.  Great job!
+ 
+
+
+     Your proof contains 1 non-premise steps. (this is informational only)
+
+---------------------------------
+The Openproof(TM) project is funded by Stanford University.
